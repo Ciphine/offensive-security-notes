@@ -10,4 +10,4 @@ coverY: 0
 Este é um repositório público que tem como objetivo compartilhar estudos, técnicas, cenários e práticas de segurança cibernética ofensiva.
 {% endhint %}
 
-Nosso objetivo é espalhar o conhecimento através de cenários de ataque concretizados, apresentando de forma compreensível trilhas de ataques cibernético para profissionais, pesquisadores e demais interessados. Sinta-se à vontade para contribuir com o projeto.
+Nosso objetivo é apresentar de forma compreensível trilhas de ataques cibernético para profissionais, pesquisadores e demais interessados. Sinta-se à vontade para contribuir com o projeto.
